@@ -4,6 +4,20 @@ package staticKeyword;
  * instead of every time an instance is created as shown below
  */
 
+
+/* Console Output from this example:
+ 
+Name: Sam Sammison
+ID number :11
+Company name: Target
+
+Name: Jimmy Jim
+ID number :2
+Company name: Target
+*/
+
+
+
 public class staticVariable {
 	
 	// Instance variables

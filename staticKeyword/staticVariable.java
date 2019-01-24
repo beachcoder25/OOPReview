@@ -35,7 +35,8 @@ public class staticVariable {
 		Name: Jimmy Jim
 		ID number :2
 		Company name: Target
-		 */
+		 
+		*/
 
 	}
 
